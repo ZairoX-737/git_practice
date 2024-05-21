@@ -8,3 +8,5 @@ print("Hello World from ispo")
 
 print(say_hello_by_lastname("Glubuchik"))
 print(say_hello_by_name("Denis"))
+
+print('Greetings to Denis from Kirill!')
